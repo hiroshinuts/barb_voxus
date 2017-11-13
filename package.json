@@ -1,0 +1,16 @@
+{
+  "name": "voxus_dashboard",
+  "version": "1.0.0",
+  "description": "\"Teste realizado por Bárbara Watanabe para empresa Voxus\"",
+  "main": "\"server.js\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bárbara Watanabe",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.2",
+    "express": "^4.13.3",
+    "nedb": "^1.1.2"
+  }
+}
